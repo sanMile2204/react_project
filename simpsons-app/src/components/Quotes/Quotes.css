@@ -1,0 +1,35 @@
+.yellow-container {
+    background-color: #FFDE00;
+    width: 255px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top:50px;
+}
+
+.white-container {
+    background-color: #FFFFFF;
+    width: 213px;
+    height: 190px;
+    border-radius: 10px;
+    color: #000000;
+    padding: 20px;
+}
+
+.white-container p {
+    font-family: Merge One;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+}
+
+.bold-text {
+    font-family: Londrina Solid;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+}
